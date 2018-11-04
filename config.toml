@@ -1,6 +1,6 @@
-baseURL = "http://GenXXXX.github.io/"
+baseURL = "https://GenXXXX.github.io/"
 languageCode = "en-us"
-title = "Gen.X's Blog"
+title = "白马灰马"
 theme = "sam"
 
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
@@ -18,21 +18,21 @@ pygmentsCodefences      = true
                                                          # Note: This will only become active if clickablePhotos is also true.
     smallImagesSubfolder = "small/"                      # The subfolder for the small versions of the images under the gallery (with trailing slash)
                                                          # For each image the small version has to have the same filename as the big version.
-    footerText          = "Call me Sam, a theme for Hugo."
+    footerText          = "No more knowledge can be extracted from my telling"
 
 # Metadata
-    description         = "A new Hugo site."            # Max 160 characters show in search results
+    description         = "No more knowledge can be extracted from my telling"            # Max 160 characters show in search results
     twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
     primaryImage        = "tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
+    link = "/journal"
+    text = "Pools of sorrow, waves of joy"
 
 [[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
+    link = "/hack"
+    text = "Are drifting through my opened mind"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who is sam?"
+    text = "Possessing and caressing me"
