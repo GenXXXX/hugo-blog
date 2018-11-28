@@ -11,7 +11,7 @@ pygmentsCodefences      = true
     dateform            = "Mon Jan 02, 2006"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
     favicon             = "sam.ico"
-    homepage            = "main"                        # What to call the home page link
+    homepage            = "home"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = false                          # Allow links to the full size images
     smallPreviewImages   = true                         # Show small images from the subfolder instead of the big versions in the gallery
@@ -36,3 +36,16 @@ pygmentsCodefences      = true
 [[params.mainMenu]]
     link = "/about"
     text = "Possessing and caressing me"
+
+# Valine.
+  # You can get your appid and appkey from https://leancloud.cn
+  # more info please open https://valine.js.org
+  [params.valine]
+    enable = true # visitor count
+    appId = 'LNWSFw5cWnONWCjuNFSms29s-gzGzoHsz'
+    appKey = '71ucjbrEBKayqWojcceiAIWv'
+    notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+    verify = false # Verification code
+    avatar = 'retro' 
+    placeholder = 'Say something...'
+    visitor = true

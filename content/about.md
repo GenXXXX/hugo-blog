@@ -13,6 +13,6 @@ date: 2018-11-03
 }
 ```
 
-**可这样一个骄傲自大的肢体，要怎么才能找到你？**
+**Don't follow me, you'll end up in my arms**
 
 {{< vimeo 289480449 >}}

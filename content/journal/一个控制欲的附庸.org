@@ -5,4 +5,6 @@ showDate: true
 draft: false
 ---
 
-我把博客移植到了[[https://gohugo.io/][Hugo]]框架，依然是静态生成页面然后部署在Github Pages。目的很单纯，我要完全活在*org-mode*的控制之下。
+我把博客移植到了[[https://gohugo.io/][Hugo]]框架，依然是静态生成页面然后部署在Github Pages。目的很单纯，我要完全活在 =org-mode= 的控制之下。
+
+
