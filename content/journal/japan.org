@@ -1,0 +1,135 @@
+---
+title: "日本行备忘"
+date: 2018-12-13T14:34:13-07:00
+showDate: true
+draft: false
+---
+
+[[本文链接][]]
+
+* [#A]TO DO LIST
+
+** IN PROGRESS [#A] Get Visa for Japan [66%]
+   + [X] Documents required [13/13]
+     - [X] Passport
+     - [X] Application form
+     - [X] Bank statement in the past 6 months
+     - [X] Explanation letter for multiple entrance
+     - [X] Prove of work
+       Date, name, position, start date, annual income
+     - [X] Photo
+     - [X] Offer Letter
+     - [X] Utility bill
+     - [X] Travel plan/agenda in Japan
+     - [X] Flight tickets
+     - [X] Hotel reservation
+     - [X] i20 copies
+     - [X] EAD copy
+   + [X] Submit the applcation
+     - Additional material needed: pay stub
+   + [ ] Pick up Visa
+     - bring EAD card
+
+** IN PROGRESS [#B] 电话卡                                   
+
+** TODO [#A] 泡汤                                                   
+
+** TODO [#B] GEN GEN AN by ENTEA 幻幻庵
+   - address: 4-8 Udagawacho, Shibuya, Tokyo 150-0042日本
+ 
+** TODO [#A] 箱根神社（はこねじんじゃ）
+
+** TODO [#A] 伏見稲荷大社
+
+** TODO [#A] JackRoad
+   - address: 164-0001 Tokyo, 中野区５丁目52−15 中野ブロードウェイ
+
+** TODO [#C] 六本木 Club
+   1. Vsquare（似乎男生有纹身禁入，sigh）
+   2. Club Camelot
+      〒150-0041 1-18-2, Jinnan, Shibuya, Tokyo,
+   3. ALIFE
+      106-0031 Nishi Azabu 1-7-2 Minato-ku, Tokyo, Japan, Tokyo
+   4. ageHa
+      〒136-0082 2-2-10 SHINKIBA, Koto-ku, Tokyo, Japan
+   5. 1 OAK Tokyo
+      〒106-0032 5-10-25, Roppongi, Minato-ku, Tokyo Japan
+   6. WOMB
+      〒150-0044 Tokyo, Shibuya, Maruyamacho, 2-16
+
+
+
+-----
+
+* 交通
+
+**  东京-箱根
+*** 成田机场-东京市区
+   - JR成田线至我孙子
+   - JR常磐线至上野
+   - 时间: 41 + 33 min
+
+*** 东京市区-小田原
+   - 新幹線こだま677号
+   - 时间：34 min
+
+*** 小田原-宿处
+   - Bus route J05
+   
+*** 宿处
+    159-22 Motohakone, 箱根町, 神奈川县 250-0522
+
+** 箱根-京都[fn:1]
+*** 住处-小田原
+
+*** 小田原-名古屋
+   - 新幹線 Hikari 519
+   - 时间：69 min
+
+*** 名古屋-京都
+   - 新幹線 Nozomi 187
+   - 时间：35 min
+
+*** 宿处
+    + 411 IMU HOTEL KYOTO, 下京区岩戸山町, 京都府, 日本
+    +  568 カオサン京都ゲストハウス, 京都市下京区寺町通仏光寺上がる中之町, 京都府, 日本
+
+** 京都-东京渋谷
+*** 住处-京都站
+
+*** 京都-品川
+   - 新幹線 Nozomi 150
+   - 时间：134 min
+
+*** 品川-渋谷
+   - JR山手线
+   - 时间：12 min
+
+*** 宿处
+    10-3, 渋谷区神泉町, 东京都, 日本
+
+-----
+
+* 景点
+
+** 箱根
+*** 芦之湖鸟居
+*** 大涌谷
+*** 箱根神社
+*** ...
+
+** 京都
+*** 清水寺
+*** 伏见稻荷大社
+*** ...
+
+** 东京
+*** 东京塔
+*** 歌舞伎町
+*** ...
+
+
+
+* Footnotes
+
+[fn:1] 亦存在小田原至京都的直达新干线，并不是没班都有
