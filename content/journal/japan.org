@@ -5,8 +5,6 @@ showDate: true
 draft: false
 ---
 
-[[本文链接][]]
-
 * [#A]TO DO LIST
 
 ** IN PROGRESS [#A] Get Visa for Japan [66%]
