@@ -7,7 +7,8 @@ draft: false
 
 * [#A]TO DO LIST
 
-** IN PROGRESS [#A] Get Visa for Japan [66%]
+** DONE [#A] Get Visa for Japan [100%]
+   CLOSED: [2018-12-17 Mon 13:34]
    + [X] Documents required [13/13]
      - [X] Passport
      - [X] Application form
@@ -25,7 +26,7 @@ draft: false
      - [X] EAD copy
    + [X] Submit the applcation
      - Additional material needed: pay stub
-   + [ ] Pick up Visa
+   + [X] Pick up Visa
      - bring EAD card
 
 ** IN PROGRESS [#B] 电话卡                                   
@@ -39,7 +40,7 @@ draft: false
 
 ** TODO [#A] 伏見稲荷大社
 
-** TODO [#A] JackRoad
+** TODO [#C] JackRoad
    - address: 164-0001 Tokyo, 中野区５丁目52−15 中野ブロードウェイ
 
 ** TODO [#C] 六本木 Club
@@ -61,7 +62,9 @@ draft: false
 
 * 交通
 
-**  东京-箱根
+换乘案内（中文）：[[https://world.jorudan.co.jp/mln/zh-cn/?sub_lang=ja]]
+
+**  东京-箱根 Plan A
 *** 成田机场-东京市区
    - JR成田线至我孙子
    - JR常磐线至上野
@@ -76,6 +79,40 @@ draft: false
    
 *** 宿处
     159-22 Motohakone, 箱根町, 神奈川县 250-0522
+
+** 东京-箱根 Plan B
+
+   成田机场 - 小田原 成田空港 - 小田原
+
+   2018/12/25 16:10 出发2018/12/25 16:10 発
+
+   16:19 → 18:07
+
+   时间 / 1 小时 48 分  车票 / 7,370 日元
+
+*** 成田机场    成田空港
+
+    成田快线 36号（开往大船）    中央    成田エクスプレス36号(大船行)    
+
+    16:19-17:26 [67 分]
+
+    3,020 日元 (指定座 / 1,900日元)
+
+*** 品川    １５号线    品川    １５番線
+
+    换乘    乗換
+
+    17:26-17:40 [换乘 10 分 + 等候 4 分]
+
+*** 品川    品川
+
+    光 523号（Ｎ７００系列）（开往新大阪）        ひかり523号(N700系)(新大阪行)    
+
+    17:40-18:07 [27 分]
+
+    (指定座 / 2,450日元)
+
+*** 小田原    １３号线    小田原    １３番線
 
 ** 箱根-京都[fn:1]
 *** 住处-小田原
@@ -111,23 +148,42 @@ draft: false
 * 景点
 
 ** 箱根
-*** 芦之湖鸟居
 *** 大涌谷
+
 *** 箱根神社
-*** ...
+    - 日本〒250-0522 Kanagawa-ken, Ashigarashimo-gun, Hakone-machi, Motohakone, 80-1
+    - 搭乘巴士至元箱根站，或搭乘海賊觀光船至元箱根港，再徒步10分鐘
+
+*** 攻略：
+    [[https://blog.kkday.com/17802/asia-japan-tokyo-hakone-guide]]
+
 
 ** 京都
-*** 清水寺
+*** 清水寺（きよみずでら）
+    Under construction ...
+
+*** 贵船流水面
+    夏季限定 ...
+    
 *** 伏见稻荷大社
-*** ...
+    - 參拜時間：08:30 ~ 16:30
+    - 入場費用：免費
+    - 地址：京都府京都市伏見區深草薮之内町68號（座標：34.967131, 135.772640）
+    - 交通：JR奈良線至『稻荷』徒步2min 或 京阪電鐵至『伏見稻荷』徒步5min
+    - 京都巴士一日遊，稻荷大社・嵐山・金閣寺・奈良公園東大寺
+
+*** 攻略
+    [[https://blog.kkday.com/27673/asia-japan-kyoto-kimono-guide-2]]
 
 ** 东京
 *** 东京塔
+
 *** 歌舞伎町
+
 *** ...
 
 
 
 * Footnotes
 
-[fn:1] 亦存在小田原至京都的直达新干线，并不是没班都有
+[fn:1] 亦存在小田原至京都的直达新干线，并不是每班都有
