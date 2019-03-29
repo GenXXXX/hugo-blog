@@ -5,7 +5,8 @@ showDate: true
 draft: false
 ---
 
-* [#A]TO DO LIST
+* DONE [#A]TO DO LIST
+  CLOSED: [2019-01-01 Tue 19:46]
 
 ** DONE [#A] Get Visa for Japan [100%]
    CLOSED: [2018-12-17 Mon 13:34]
@@ -29,21 +30,27 @@ draft: false
    + [X] Pick up Visa
      - bring EAD card
 
-** IN PROGRESS [#B] 电话卡                                   
+** DONE [#B] 电话卡                                   
+   CLOSED: [2019-01-01 Tue 19:46]
 
-** TODO [#A] 泡汤                                                   
+** DONE [#A] 泡汤                                                   
+   CLOSED: [2019-01-01 Tue 19:46]
 
 ** TODO [#B] GEN GEN AN by ENTEA 幻幻庵
    - address: 4-8 Udagawacho, Shibuya, Tokyo 150-0042日本
+   - 没开门
  
-** TODO [#A] 箱根神社（はこねじんじゃ）
+** DONE [#A] 箱根神社（はこねじんじゃ）
+   CLOSED: [2019-01-01 Tue 19:46]
 
-** TODO [#A] 伏見稲荷大社
+** DONE [#A] 伏見稲荷大社
+   CLOSED: [2019-01-01 Tue 19:46]
 
 ** TODO [#C] JackRoad
    - address: 164-0001 Tokyo, 中野区５丁目52−15 中野ブロードウェイ
 
-** TODO [#C] 六本木 Club
+** DONE [#C] 六本木 Club
+   CLOSED: [2019-01-01 Tue 19:47]
    1. Vsquare（似乎男生有纹身禁入，sigh）
    2. Club Camelot
       〒150-0041 1-18-2, Jinnan, Shibuya, Tokyo,
@@ -55,6 +62,7 @@ draft: false
       〒106-0032 5-10-25, Roppongi, Minato-ku, Tokyo Japan
    6. WOMB
       〒150-0044 Tokyo, Shibuya, Maruyamacho, 2-16
+   7. 最终地点是ELE TOKYO
 
 
 
@@ -180,7 +188,9 @@ draft: false
 
 *** 歌舞伎町
 
-*** ...
+*** 六本木
+
+*** 
 
 
 

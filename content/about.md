@@ -13,6 +13,4 @@ date: 2018-11-03
 }
 ```
 
-**Don't follow me, you'll end up in my arms**
-
 {{< vimeo 289480449 >}}
