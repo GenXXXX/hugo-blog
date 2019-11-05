@@ -27,21 +27,21 @@ pygmentsCodefences      = true
 
 [[params.mainMenu]]
     link = "/journal"
-    text = "Pools of sorrow, waves of joy"
+    text = "笛音夏扇"
 
 [[params.mainMenu]]
     link = "/hack"
-    text = "Are drifting through my opened mind"
+    text = "箫乐冬炉"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "Possessing and caressing me"
+    text = "白马灰马"
 
 # Valine.
   # You can get your appid and appkey from https://leancloud.cn
   # more info please open https://valine.js.org
   [params.valine]
-    enable = true # visitor count
+    enable = false # visitor count
     appId = 'LNWSFw5cWnONWCjuNFSms29s-gzGzoHsz'
     appKey = '71ucjbrEBKayqWojcceiAIWv'
     notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
