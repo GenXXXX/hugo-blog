@@ -1,6 +1,7 @@
 ---
 title: "冰岛行事录"
 date: 2019-11-05T15:35:06-08:00
+showDate: true
 draft: true
 ---
 
