@@ -7,4 +7,4 @@
 	branch = master
 [submodule "themes/sam"]
 	path = themes/sam
-	url = https://github.com/vickylai/hugo-theme-sam.git
+	url = https://github.com/victoriadrake/hugo-theme-sam.git
