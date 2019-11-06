@@ -14,6 +14,7 @@ draft: true
 | 12.24 |               | Sightseeing in the city      |                        |       |
 |       |               | Aurora                       |                        |       |
 |       |               | Shopping                     |                        |       |
+|       |               | [[https://www.google.com/maps/dir/Reykjav%C3%ADk,+Iceland/Blue+Lagoon,+Nordurljosavegur+9,+240+Grindav%C3%ADk,+Iceland/@64.0136113,-22.4574553,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x48d674b9eedcedc3:0xec912ca230d26071!2m2!1d-21.9426354!2d64.146582!1m5!1m1!1s0x48d61d76fbd18b55:0xfac6d4589ad02a38!2m2!1d-22.4495089!2d63.880391!3e0?hl=en][Blue Lagoon]]                  | 50KM, 40min            |       |
 | 12.25 |               | [[https://www.google.com/maps/place/Thingvellir+National+Park/@64.2558284,-21.1298615,15z/data=!4m2!3m1!1s0x0:0x6b756c8b079262f2?sa=X&ved=2ahUKEwjNq8HL7NTlAhW8FzQIHQDCDBYQ_BIwHnoECAsQCA][Þingvellir National Park]]     | Start here             |       |
 |       |               | [[https://www.google.com/maps/place/Keri%C3%B0/@64.0405566,-20.8870518,15z/data=!4m5!3m4!1s0x0:0x71c903bdbccf538!8m2!3d64.0405566!4d-20.8870518][Kerið Volcano Lake]] 火山湖    | 43KM, 37min            |       |
 |       |               | [[https://www.google.com/maps/place/Geysir,+Iceland/data=!4m2!3m1!1s0x48d6a39f03424f3f:0xb4751c1a62e2283f?sa=X&ved=2ahUKEwinuqTF7dTlAhUoFjQIHcR0DbwQ8gEwJ3oECAsQBA][Geysir Hot Spring]] 间歇泉     | 47KM, 35min            |       |
@@ -24,7 +25,7 @@ draft: true
 |       |               | [[https://www.google.com/maps/place/J%C3%B6kuls%C3%A1rl%C3%B3n/@63.8174348,-16.2270589,7.84z/data=!4m5!3m4!1s0x48cfd6ecd73a3819:0xcd05c959e10146a9!8m2!3d64.0784458!4d-16.2305537][Jökulsárlón]] 冰河湖           | 227KM, 2h45min         |       |
 |       |               | [[https://www.google.com/maps/place/Diamond+Beach/@64.044334,-16.1776622,15z/data=!4m5!3m4!1s0x0:0x4202e865f907845a!8m2!3d64.044334!4d-16.1776622][Diamond Beach]]                | 1KM, 8min              |       |
 | 12.27 |               | 冰河湖                       | 提前预约冰川徒步: [[http://z.qyer.com/deal/108846/%C3%A5%C3%A7][Link]] |       |
-| 12.28 |               | [[https://www.google.com/maps/place/Vatnajokull/@64.4824119,-17.6869812,7.25z/data=!4m13!1m7!3m6!1s0x48d1d9c01cfda2db:0x8948007619cbf306!2sVatnajokull!3b1!8m2!3d64.421969!4d-16.7902035!3m4!1s0x48d1d9c01cfda2db:0x8948007619cbf306!8m2!3d64.421969!4d-16.7902035][Vatnajokull]] 瓦特纳冰原       |                        |       |
+| 12.28 |               | [[https://www.google.com/maps/place/Vatnajokull/@64.4824119,-17.6869812,7.25z/data=!4m13!1m7!3m6!1s0x48d1d9c01cfda2db:0x8948007619cbf306!2sVatnajokull!3b1!8m2!3d64.421969!4d-16.7902035!3m4!1s0x48d1d9c01cfda2db:0x8948007619cbf306!8m2!3d64.421969!4d-16.7902035][Vatnajokull]] 瓦特纳冰原       | Ice cave tour          |       |
 | 12.29 | 5:05 PM       | Departure                    |                        |       |
 
 
@@ -33,6 +34,17 @@ draft: true
 |  Date | Sunrise  | Sunset  | Duration |
 | 12.15 | 11:15 AM | 3:30PM  | 4h15min  |
 |   1.1 | 11:20 AM | 3:45 PM | 4h25min  |
+
+
+* TODO List[0%]
+
+1. [ ] Car rental
+2. [-] Blue lagoon 蓝湖温泉预约
+3. [-] Vatnajokull 蓝冰洞tour预约
+4. [-] Reykjavik Hotel
+5. [-] Vik town hotel
+6. [-] Gold Circle area hotel
+7. [-] Vatnajokull hotel
 
 
 * Itinerary
