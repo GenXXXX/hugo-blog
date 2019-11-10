@@ -2,6 +2,7 @@
 title: System Design 学习上手
 date: 2017-12-28T00:14:19-07:00
 showDate: true
+mathjax: true
 tags: ["系统设计", "System Design", "LeetCode"]
 ---
 

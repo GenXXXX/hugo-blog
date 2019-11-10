@@ -7,7 +7,7 @@ date: 2018-11-03
 {
 	"name": "Gen X",
 	"location": "Seattle",
-	"interests": ["skateboarding", "jojo", "jogging", "emacser"],
+	"interests": ["skateboarding", "snowborading", "jojo", "jogging", "emacs"],
 	"github": "https://github.com/GenXXXX",
 	"email": "regulus.xiang AT outlook.com"
 }

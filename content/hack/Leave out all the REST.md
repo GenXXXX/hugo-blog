@@ -2,6 +2,7 @@
 title: Leave out all the REST
 date: 2015-11-10
 showDate: true
+mathjax: true
 tags: ["技术"]
 ---
 

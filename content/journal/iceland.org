@@ -2,6 +2,7 @@
 title: "冰岛行事录"
 date: 2019-11-05T15:35:06-08:00
 showDate: true
+mathjax: true
 draft: true
 ---
 
@@ -36,7 +37,7 @@ draft: true
 |   1.1 | 11:20 AM | 3:45 PM | 4h25min  |
 
 
-* TODO List[28%]
+* IN PROGRESS List[28%]
 
 1. [X] Car rental
    - SUBARU Forester + WIFI + GPS + Second driver

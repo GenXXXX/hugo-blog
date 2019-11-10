@@ -2,6 +2,7 @@
 title: Operating Systems 知识速记
 date: 2017-12-13
 showDate: true
+mathjax: true
 tags: ["Operating Systems"]
 ---
 

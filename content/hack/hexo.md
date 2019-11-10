@@ -2,6 +2,7 @@
 title: 一个bug引发的血案
 date: 2016-05-09T00:14:19-07:00
 showDate: true
+mathjax: true
 tags: ["技术"]
 ---
 

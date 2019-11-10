@@ -2,6 +2,7 @@
 title: Cortana
 date: 2014-09-02 14:42:47
 showDate: true
+mathjax: true
 tags: ["影评"]
 ---
 

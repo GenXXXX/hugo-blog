@@ -2,6 +2,7 @@
 title: "日本行事录"
 date: 2018-12-13T14:34:13-07:00
 showDate: true
+mathjax: true
 draft: false
 ---
 

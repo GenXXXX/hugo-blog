@@ -6,6 +6,7 @@ theme = "sam"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
 # googleAnalytics         = ""             # Tracking code, eg. "UA-111111111-1"
+mathjax                 = true
 
 [params]
     dateform            = "Mon Jan 02, 2006"
@@ -27,15 +28,15 @@ pygmentsCodefences      = true
 
 [[params.mainMenu]]
     link = "/journal"
-    text = "笛音夏扇"
+    text = "No more knowledge"
 
 [[params.mainMenu]]
     link = "/hack"
-    text = "箫乐冬炉"
+    text = "Can be extracted"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "白马灰马"
+    text = "From my telling"
 
 # Valine.
   # You can get your appid and appkey from https://leancloud.cn

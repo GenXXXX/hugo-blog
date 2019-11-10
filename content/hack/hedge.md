@@ -2,6 +2,7 @@
 title: What we talk about when we talk about Hedging
 date: 2017-02-28T00:14:19-07:00
 showDate: true
+mathjax: true
 tags: ["Work"]
 ---
 
