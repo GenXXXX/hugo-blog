@@ -7,26 +7,26 @@ draft: true
 
 * Calendar
 
-|  Date | Time          | Agenda                       | Note                   | Hotel |
-| 12.23 | 06:10 AM      | Arrival                      |                        |       |
-|       |               | Car rental                   |                        |       |
-|       | After 2:00 PM | Reykjavik                    | 50KM, 40min            |       |
-| 12.24 |               | Sightseeing in the city      |                        |       |
-|       |               | Aurora                       |                        |       |
-|       |               | Shopping                     |                        |       |
-|       |               | [[https://www.google.com/maps/dir/Reykjav%C3%ADk,+Iceland/Blue+Lagoon,+Nordurljosavegur+9,+240+Grindav%C3%ADk,+Iceland/@64.0136113,-22.4574553,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x48d674b9eedcedc3:0xec912ca230d26071!2m2!1d-21.9426354!2d64.146582!1m5!1m1!1s0x48d61d76fbd18b55:0xfac6d4589ad02a38!2m2!1d-22.4495089!2d63.880391!3e0?hl=en][Blue Lagoon]]                  | 50KM, 40min            |       |
-| 12.25 |               | [[https://www.google.com/maps/place/Thingvellir+National+Park/@64.2558284,-21.1298615,15z/data=!4m2!3m1!1s0x0:0x6b756c8b079262f2?sa=X&ved=2ahUKEwjNq8HL7NTlAhW8FzQIHQDCDBYQ_BIwHnoECAsQCA][Þingvellir National Park]]     | Start here             |       |
-|       |               | [[https://www.google.com/maps/place/Keri%C3%B0/@64.0405566,-20.8870518,15z/data=!4m5!3m4!1s0x0:0x71c903bdbccf538!8m2!3d64.0405566!4d-20.8870518][Kerið Volcano Lake]] 火山湖    | 43KM, 37min            |       |
-|       |               | [[https://www.google.com/maps/place/Geysir,+Iceland/data=!4m2!3m1!1s0x48d6a39f03424f3f:0xb4751c1a62e2283f?sa=X&ved=2ahUKEwinuqTF7dTlAhUoFjQIHcR0DbwQ8gEwJ3oECAsQBA][Geysir Hot Spring]] 间歇泉     | 47KM, 35min            |       |
-|       |               | [[https://www.google.com/maps/place/Gullfoss+Falls,+Iceland/data=!4m2!3m1!1s0x48d6a574af45b6c9:0x2c6347db0b411601?sa=X&ved=2ahUKEwiFn_OB7tTlAhVCJzQIHbKrDMMQ8gEwJnoECAsQBA][Gullfoss Falls]] 黄金瀑布      | 10KM, 9min             |       |
-| 12.26 |               | [[https://www.google.com/maps/place/Seljalandsfoss/@63.6155983,-19.9906909,17z/data=!3m1!4b1!4m5!3m4!1s0x48d71eade8ef2415:0xae01e6205209178d!8m2!3d63.6156232!4d-19.9885688][Seljalandsfoss]]               | 120KM, 1h30min         |       |
-|       |               | [[https://www.google.com/maps/place/Sk%C3%B3gafoss/@63.5320123,-19.513565,17z/data=!3m1!4b1!4m5!3m4!1s0x48d73b7639a58c15:0xf60c71fcdfe7948!8m2!3d63.5320523!4d-19.5113705][Skógafoss]]                    | 30KM, 25min            |       |
-|       |               | [[https://www.google.com/maps/place/Black+Sand+Beach/@64.0577851,-23.6805364,7z/data=!4m8!1m2!2m1!1sblack+sand+beach+iceland!3m4!1s0x48d74a30db9ff191:0x3920036bf6632d98!8m2!3d63.4129206!4d-19.0182356][Black Sand Beach/DC-3 Flight]] | 34KM, 31min            |       |
-|       |               | [[https://www.google.com/maps/place/J%C3%B6kuls%C3%A1rl%C3%B3n/@63.8174348,-16.2270589,7.84z/data=!4m5!3m4!1s0x48cfd6ecd73a3819:0xcd05c959e10146a9!8m2!3d64.0784458!4d-16.2305537][Jökulsárlón]] 冰河湖           | 227KM, 2h45min         |       |
-|       |               | [[https://www.google.com/maps/place/Diamond+Beach/@64.044334,-16.1776622,15z/data=!4m5!3m4!1s0x0:0x4202e865f907845a!8m2!3d64.044334!4d-16.1776622][Diamond Beach]]                | 1KM, 8min              |       |
-| 12.27 |               | 冰河湖                       | 提前预约冰川徒步: [[http://z.qyer.com/deal/108846/%C3%A5%C3%A7][Link]] |       |
-| 12.28 |               | [[https://www.google.com/maps/place/Vatnajokull/@64.4824119,-17.6869812,7.25z/data=!4m13!1m7!3m6!1s0x48d1d9c01cfda2db:0x8948007619cbf306!2sVatnajokull!3b1!8m2!3d64.421969!4d-16.7902035!3m4!1s0x48d1d9c01cfda2db:0x8948007619cbf306!8m2!3d64.421969!4d-16.7902035][Vatnajokull]] 瓦特纳冰原       | Ice cave tour          |       |
-| 12.29 | 5:05 PM       | Departure                    |                        |       |
+|  Date | Time          | Agenda                       | Note                   | Hotel              |
+| 12.23 | 06:10 AM      | Arrival                      |                        | [[https://www.booking.com/hotel/is/gestinn-guesthouse.html?aid=311088;label=gestinn-guesthouse-b2ENXB7CqGJe2TnRJlQcHgS267446048562%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atikwd-68075772806%3Alp9033316%3Ali%3Adec%3Adm;sid=0b04df705658a1ac03c0e21e14d936d4;dest_id=-2651804;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1573363279;srpvid=a2c225a7f46800a1;type=total;ucfs=1&#hotelTmpl][Gustinn Guesthouse]] |
+|       |               | Car rental                   |                        |                    |
+|       | After 2:00 PM | Reykjavik                    | 50KM, 40min            |                    |
+| 12.24 |               | Sightseeing in the city      |                        | Gustinn Guesthouse |
+|       |               | Aurora                       |                        |                    |
+|       |               | Shopping                     |                        |                    |
+|       |               | [[https://www.google.com/maps/dir/Reykjav%C3%ADk,+Iceland/Blue+Lagoon,+Nordurljosavegur+9,+240+Grindav%C3%ADk,+Iceland/@64.0136113,-22.4574553,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x48d674b9eedcedc3:0xec912ca230d26071!2m2!1d-21.9426354!2d64.146582!1m5!1m1!1s0x48d61d76fbd18b55:0xfac6d4589ad02a38!2m2!1d-22.4495089!2d63.880391!3e0?hl=en][Blue Lagoon]]                  | 50KM, 40min            |                    |
+| 12.25 |               | [[https://www.google.com/maps/place/Thingvellir+National+Park/@64.2558284,-21.1298615,15z/data=!4m2!3m1!1s0x0:0x6b756c8b079262f2?sa=X&ved=2ahUKEwjNq8HL7NTlAhW8FzQIHQDCDBYQ_BIwHnoECAsQCA][Þingvellir National Park]]     | Start here             | Selfoss TBD        |
+|       |               | [[https://www.google.com/maps/place/Keri%C3%B0/@64.0405566,-20.8870518,15z/data=!4m5!3m4!1s0x0:0x71c903bdbccf538!8m2!3d64.0405566!4d-20.8870518][Kerið Volcano Lake]] 火山湖    | 43KM, 37min            |                    |
+|       |               | [[https://www.google.com/maps/place/Geysir,+Iceland/data=!4m2!3m1!1s0x48d6a39f03424f3f:0xb4751c1a62e2283f?sa=X&ved=2ahUKEwinuqTF7dTlAhUoFjQIHcR0DbwQ8gEwJ3oECAsQBA][Geysir Hot Spring]] 间歇泉     | 47KM, 35min            |                    |
+|       |               | [[https://www.google.com/maps/place/Gullfoss+Falls,+Iceland/data=!4m2!3m1!1s0x48d6a574af45b6c9:0x2c6347db0b411601?sa=X&ved=2ahUKEwiFn_OB7tTlAhVCJzQIHbKrDMMQ8gEwJnoECAsQBA][Gullfoss Falls]] 黄金瀑布      | 10KM, 9min             |                    |
+| 12.26 |               | [[https://www.google.com/maps/place/Seljalandsfoss/@63.6155983,-19.9906909,17z/data=!3m1!4b1!4m5!3m4!1s0x48d71eade8ef2415:0xae01e6205209178d!8m2!3d63.6156232!4d-19.9885688][Seljalandsfoss]]               | 120KM, 1h30min         | Vik TBD            |
+|       |               | [[https://www.google.com/maps/place/Sk%C3%B3gafoss/@63.5320123,-19.513565,17z/data=!3m1!4b1!4m5!3m4!1s0x48d73b7639a58c15:0xf60c71fcdfe7948!8m2!3d63.5320523!4d-19.5113705][Skógafoss]]                    | 30KM, 25min            |                    |
+|       |               | [[https://www.google.com/maps/place/Black+Sand+Beach/@64.0577851,-23.6805364,7z/data=!4m8!1m2!2m1!1sblack+sand+beach+iceland!3m4!1s0x48d74a30db9ff191:0x3920036bf6632d98!8m2!3d63.4129206!4d-19.0182356][Black Sand Beach/DC-3 Flight]] | 34KM, 31min            |                    |
+|       |               | [[https://www.google.com/maps/place/J%C3%B6kuls%C3%A1rl%C3%B3n/@63.8174348,-16.2270589,7.84z/data=!4m5!3m4!1s0x48cfd6ecd73a3819:0xcd05c959e10146a9!8m2!3d64.0784458!4d-16.2305537][Jökulsárlón]] 冰河湖           | 227KM, 2h45min         |                    |
+|       |               | [[https://www.google.com/maps/place/Diamond+Beach/@64.044334,-16.1776622,15z/data=!4m5!3m4!1s0x0:0x4202e865f907845a!8m2!3d64.044334!4d-16.1776622][Diamond Beach]]                | 1KM, 8min              |                    |
+| 12.27 |               | 冰河湖                       | 提前预约冰川徒步: [[http://z.qyer.com/deal/108846/%C3%A5%C3%A7][Link]] | Jökulsárlón TBD    |
+| 12.28 |               | [[https://www.google.com/maps/place/Vatnajokull/@64.4824119,-17.6869812,7.25z/data=!4m13!1m7!3m6!1s0x48d1d9c01cfda2db:0x8948007619cbf306!2sVatnajokull!3b1!8m2!3d64.421969!4d-16.7902035!3m4!1s0x48d1d9c01cfda2db:0x8948007619cbf306!8m2!3d64.421969!4d-16.7902035][Vatnajokull]] 瓦特纳冰原       | Ice cave tour          | Reykjavik TBD      |
+| 12.29 | 5:05 PM       | Departure                    |                        |                    |
 
 
 * Day Light Time
@@ -36,15 +36,25 @@ draft: true
 |   1.1 | 11:20 AM | 3:45 PM | 4h25min  |
 
 
-* TODO List[0%]
+* TODO List[28%]
 
-1. [ ] Car rental
+1. [X] Car rental
+   - SUBARU Forester + WIFI + GPS + Second driver
+
 2. [-] Blue lagoon 蓝湖温泉预约
+   
 3. [-] Vatnajokull 蓝冰洞tour预约
-4. [-] Reykjavik Hotel
-5. [-] Vik town hotel
-6. [-] Gold Circle area hotel
-7. [-] Vatnajokull hotel
+   - https://cn.guidetoiceland.is/book-holiday-trips/glacier-caving-in-vatnajokull
+   
+4. [X] Reykjavik Hotel
+   - Gustinn Guesthouse
+   - Njarðargata 29, Reykjavík 101, Reykjavík, 101, Iceland
+
+5. [-] Gold Circle area (Selfoss) hotel
+
+6. [-] Vik town hotel
+
+7. [-] Vatnajokull/Jökulsárlón hotel
 
 
 * Itinerary
@@ -63,22 +73,23 @@ draft: true
 -----
 
 ** Day3: Dec 25
-*** TBD
+*** Hotel in Selfoss town?
 
 -----
 
 ** Day4: Dec 26
-*** TBD
+*** Hotel in Vik town?
 
 -----
 
 ** Day5: Dec 27
-*** TBD
+*** Hotel in Gerdi?
+    - [[https://www.booking.com/hotel/is/gerdi.html?aid=311088;label=gerdi-0tK1V7iq4rrfi0QoPolM_wS260979213964%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atikwd-36762638503%3Alp9033316%3Ali%3Adec%3Adm;sid=0b04df705658a1ac03c0e21e14d936d4;dest_id=900054980;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1573363676;srpvid=9fbc266df4e5007d;type=total;ucfs=1&#hotelTmpl][Gerdi Guesthouse]]
 
 -----
 
 ** Day6: Dec 28
-*** TBD
+*** Hotel in Rekyjavik?
 
 -----
 
