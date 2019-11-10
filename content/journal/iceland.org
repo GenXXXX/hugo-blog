@@ -2,11 +2,10 @@
 title: "冰岛行事录"
 date: 2019-11-05T15:35:06-08:00
 showDate: true
-mathjax: true
 draft: true
 ---
 
-* Calendar
+* Calendar :iceland:
 
 |  Date | Time          | Agenda                       | Note                   | Hotel              |
 | 12.23 | 06:10 AM      | Arrival                      |                        | [[https://www.booking.com/hotel/is/gestinn-guesthouse.html?aid=311088;label=gestinn-guesthouse-b2ENXB7CqGJe2TnRJlQcHgS267446048562%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atikwd-68075772806%3Alp9033316%3Ali%3Adec%3Adm;sid=0b04df705658a1ac03c0e21e14d936d4;dest_id=-2651804;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1573363279;srpvid=a2c225a7f46800a1;type=total;ucfs=1&#hotelTmpl][Gustinn Guesthouse]] |
@@ -30,7 +29,7 @@ draft: true
 | 12.29 | 5:05 PM       | Departure                    |                        |                    |
 
 
-* Day Light Time
+* Day Light Time :sunrise:
 
 |  Date | Sunrise  | Sunset  | Duration |
 | 12.15 | 11:15 AM | 3:30PM  | 4h15min  |
@@ -39,7 +38,7 @@ draft: true
 
 * IN PROGRESS List[28%]
 
-1. [X] Car rental
+1. [X] Car rental :white_check_mark:
    - SUBARU Forester + WIFI + GPS + Second driver
 
 2. [-] Blue lagoon 蓝湖温泉预约
@@ -47,7 +46,7 @@ draft: true
 3. [-] Vatnajokull 蓝冰洞tour预约
    - https://cn.guidetoiceland.is/book-holiday-trips/glacier-caving-in-vatnajokull
    
-4. [X] Reykjavik Hotel
+4. [X] Reykjavik Hotel :white_check_mark:
    - Gustinn Guesthouse
    - Njarðargata 29, Reykjavík 101, Reykjavík, 101, Iceland
 
@@ -58,7 +57,7 @@ draft: true
 7. [-] Vatnajokull/Jökulsárlón hotel
 
 
-* Itinerary
+* Itinerary :calendar:
 
 -----
 
