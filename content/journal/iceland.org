@@ -25,7 +25,7 @@ draft: true
 |       |               | [[https://www.google.com/maps/place/J%C3%B6kuls%C3%A1rl%C3%B3n/@63.8174348,-16.2270589,7.84z/data=!4m5!3m4!1s0x48cfd6ecd73a3819:0xcd05c959e10146a9!8m2!3d64.0784458!4d-16.2305537][Jökulsárlón]] 冰河湖           | 227KM, 2h45min         |                       |
 |       |               | [[https://www.google.com/maps/place/Diamond+Beach/@64.044334,-16.1776622,15z/data=!4m5!3m4!1s0x0:0x4202e865f907845a!8m2!3d64.044334!4d-16.1776622][Diamond Beach]]                | 1KM, 8min              |                       |
 | 12.27 |               | 冰河湖                       | 提前预约冰川徒步: [[http://z.qyer.com/deal/108846/%C3%A5%C3%A7][Link]] | [[https://www.booking.com/hotel/is/skyrhusid-guesthouse.zh-tw.html?aid=898224;label=Share-rVxz8ij%401573686544;sid=0b04df705658a1ac03c0e21e14d936d4;checkin=2019-11-13&checkout=2019-11-14&dist=0&from_sn=ios&group_adults=2&group_children=0&keep_landing=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA%2C&sb_price_type=total&type=total&][Skyrhúsid Guest House]] |
-| 12.28 |               | [[https://www.google.com/maps/place/Vatnajokull/@64.4824119,-17.6869812,7.25z/data=!4m13!1m7!3m6!1s0x48d1d9c01cfda2db:0x8948007619cbf306!2sVatnajokull!3b1!8m2!3d64.421969!4d-16.7902035!3m4!1s0x48d1d9c01cfda2db:0x8948007619cbf306!8m2!3d64.421969!4d-16.7902035][Vatnajokull]] 瓦特纳冰原       | Ice cave tour          | Reykjavik TBD         |
+| 12.28 |               | [[https://www.google.com/maps/place/Vatnajokull/@64.4824119,-17.6869812,7.25z/data=!4m13!1m7!3m6!1s0x48d1d9c01cfda2db:0x8948007619cbf306!2sVatnajokull!3b1!8m2!3d64.421969!4d-16.7902035!3m4!1s0x48d1d9c01cfda2db:0x8948007619cbf306!8m2!3d64.421969!4d-16.7902035][Vatnajokull]] 瓦特纳冰原       | Ice cave tour          | [[https://www.booking.com/hotel/is/fosshotel-reykjavik.zh-tw.html?aid=318615;label=New_English_EN_WA%3A_Washington_State_23537669785-spVbHwaQz4NFJEo0Qg4F9QS99511002265%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi2645721075%3Atidsa-302962658775%3Alp9060414%3Ali%3Adec%3Adm;sid=0b04df705658a1ac03c0e21e14d936d4;dest_id=-2651804;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1574384428;srpvid=44bd071680f401b8;type=total;ucfs=1&#hotelTmpl][Fosshótel]]             |
 | 12.29 | 5:05 PM       | Departure                    |                        |                       |
 
 
@@ -36,7 +36,7 @@ draft: true
 |   1.1 | 11:20 AM | 3:45 PM | 4h25min  |
 
 
-* IN PROGRESS List[62%]
+* IN PROGRESS List[75%]
 
 1. [X] Car rental :white_check_mark:
    - SUBARU Forester + WIFI + GPS + Second driver
@@ -66,7 +66,10 @@ draft: true
    - Þjóðvegur, Iceland
    - [[https://www.google.com/maps/place/Skyrh%C3%BAsid+Guest+House/@64.1293569,-16.0182793,17z/data=!4m18!1m9!3m8!1s0x48cfd204c28a3b7b:0xc0d8f68f87d104ae!2sSkyrh%C3%BAsid+Guest+House!5m2!4m1!1i2!8m2!3d64.1293546!4d-16.0160906!3m7!1s0x48cfd204c28a3b7b:0xc0d8f68f87d104ae!5m2!4m1!1i2!8m2!3d64.1293546!4d-16.0160906?authuser=1][Map]]
 
-8. [-] Reykjavik hotel on last day
+8. [X] Reykjavik hotel on last day :white_check_mark:
+   - Fosshótel Reykjavík
+   - Þórunnartún 1, 105 Reykjavík, Iceland
+   - [[https://www.google.com/maps/place/Fossh%C3%B3tel+Reykjav%C3%ADk/@64.1443921,-21.9095837,15z/data=!4m8!3m7!1s0x0:0xb2d9784ba1f5bb95!5m2!4m1!1i2!8m2!3d64.1443921!4d-21.9095837][Map]]
 
 
 
