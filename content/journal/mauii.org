@@ -1,0 +1,42 @@
+---
+title: "毛伊行事录"
+date: 2020-11-03T02:53:06-08:00
+showDate: true
+draft: false
+---
+
+* Calendar :moyai:
+
+|  Date | Time    | Agenda     | Note                                                                 |
+|  11.6 | 3:50 PM | Arrival    |                                                                      |
+|       |         | Car rental | proceed to the area of the car class reserved to choose your vehicle |
+|  11.7 |         |            |                                                                      |
+|  11.8 |         |            |                                                                      |
+|  11.9 |         |            |                                                                      |
+| 11.10 |         |            |                                                                      |
+| 11.11 |         |            |                                                                      |
+| 11.12 |         |            |                                                                      |
+| 11.13 |         |            |                                                                      |
+| 11.14 |         |            |                                                                      |
+
+
+* IN PROGRESS List
+
+** Road to Hana
+*** Top 15: https://www.guruin.com/articles/902
+
+
+** Snorkeling Tour
+*** Molokini: https://www.pacificwhale.org/cruises/maui-snorkel/
+
+** Haleakala Sunrise
+
+** Olivine Pools
+
+** Pipiwai Trail
+
+** Venus Pools
+
+** Lower Waikamoi Falls
+
+** Helicopter Ride
