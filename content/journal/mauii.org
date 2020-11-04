@@ -7,36 +7,82 @@ draft: false
 
 * Calendar :moyai:
 
-|  Date | Time    | Agenda     | Note                                                                 |
-|  11.6 | 3:50 PM | Arrival    |                                                                      |
-|       |         | Car rental | proceed to the area of the car class reserved to choose your vehicle |
-|  11.7 |         |            |                                                                      |
-|  11.8 |         |            |                                                                      |
-|  11.9 |         |            |                                                                      |
-| 11.10 |         |            |                                                                      |
-| 11.11 |         |            |                                                                      |
-| 11.12 |         |            |                                                                      |
-| 11.13 |         |            |                                                                      |
-| 11.14 |         |            |                                                                      |
+|  Date | Time    | Agenda            | Note                                                                 |
+|  11.6 | 3:50 PM | Arrival           |                                                                      |
+|       |         | Car rental        | proceed to the area of the car class reserved to choose your vehicle |
+|       |         | Grocery shopping  | Safeway, Costco, WholeFoods                                          |
+|  11.7 |         |                   |                                                                      |
+|       |         |                   |                                                                      |
+|  11.8 |         |                   |                                                                      |
+|  11.9 |         |                   |                                                                      |
+| 11.10 | 3:00 AM | Get Up            |                                                                      |
+|       | 6:30 AM | Haleakala Sunrise |                                                                      |
+| 11.11 |         |                   |                                                                      |
+| 11.12 |         |                   |                                                                      |
+| 11.13 |         |                   |                                                                      |
+| 11.14 |         |                   |                                                                      |
 
 
 * IN PROGRESS List
 
 ** Road to Hana
 *** Top 15: https://www.guruin.com/articles/902
+*** Ho'Okipa
+*** Twin Falls
+*** [#A] Wai'Anapanapa black beach
+*** [#A] Pipiwai Trail (Bamboo forest)
+    1. Waimoku Falls
+    2. Pools of Oheo (Seven Sacred Pools)
+*** Hamoa Beach
 
+-----
 
 ** Snorkeling Tour
 *** Molokini: https://www.pacificwhale.org/cruises/maui-snorkel/
+*** [#C] Honolua Bay(No parking, no beach)
+*** [#B] Hanokeana Cove(many turtles) & Napili Bay
+*** [#C] Makena Landing
+*** Kapalua Bay
+*** [#A] Black Rock
+*** Olowalu Beach (Kayak)
 
-** Haleakala Sunrise
+-----
 
-** Olivine Pools
+** Haleakala
+*** [#A] Haleakala Crater
+*** [#A] Sunrise
+*** Sunset
+    @Paia
+*** Makawao Town
 
-** Pipiwai Trail
+-----
+
+** West Maui Mountains
+*** 1. Iao Valley
+*** 2. Waihee Ridge Trail
+*** [#A] 3. Olivine Pools
+*** [#B] Nakalele Blowhole
+*** [#B] Honolua Bay
+    - Snorkeling in the morning
+
+-----
+
+** Lahaina (Resort area)
+*** Luau show
+
+-----
 
 ** Venus Pools
 
+-----
+
 ** Lower Waikamoi Falls
 
-** Helicopter Ride
+-----
+
+** Helicopter Tour
+
+-----
+
+** +DJI Drone+
+
