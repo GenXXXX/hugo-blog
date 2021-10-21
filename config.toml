@@ -29,19 +29,31 @@ enableEmoji             = true
 
 [[params.mainMenu]]
     link = "/journal"
-    text = "No more knowledge"
+    text = "📝"
 
 [[params.mainMenu]]
     link = "/hack"
-    text = "Can be extracted"
+    text = "💾"
+
+[[params.mainMenu]]
+    link = "/city"
+    text = "🌉"
+
+[[params.mainMenu]]
+    link = "/sea"
+    text = "🌊"
+
+[[params.mainMenu]]
+    link = "/mountain"
+    text = "🗻"
+
+[[params.mainMenu]]
+    link = "/bnw"
+    text = "🏴‍☠️"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "From my telling"
-
-[[params.mainMenu]]
-    link = "/gallery"
-    text = "Gallery"
+    text = "👹"
 
 # Valine.
   # You can get your appid and appkey from https://leancloud.cn
